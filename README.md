@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi, I'm Aman Kanojiya 👋<br><br>### 👨‍💻 About Me<br>- 🎓 **BCA Undergraduate** at Chhatrapati Shivaji Maharaj University.<br>- 🎨 **Creative Developer**: I bridge the gap between logical code and aesthetic design.<br>- 🛠️ Currently focusing on **Full-Stack Web/App Development** and **AIML**.<br>- ✍️ I share my artistic journey and tech projects on social media.<br><br>### 🚀 Tech Stack<br>- **Languages:** C, C++, Python, JavaScript, HTML/CSS<br>- **Tools/Platforms:** Git, GitHub, VS Code, Vercel<br>- **Creative:** Digital Art, UI/UX Design<br><br>### 📊 GitHub Stats ### 📬 Connect with me<br>- [Portfolio](https://amankanojiyaportfolio.vercel.app)<br>- [LinkedIn](https://www.linkedin.com/in/aman-kanojiya-7386822b0)<br>- [X (Twitter)](https://x.com/AKnj08)
 
 
