@@ -9,9 +9,10 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://codedbyamankanojiya.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:aman.knj2006@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/alw4ys.ammy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alw4ys.ammy" height="30" width="40" /></a>
+  <a href="https://twitter.com/AKnj08" target="blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/codedbyamankanojiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codedbyamankanojiya" height="30" width="40" /></a>
+  <a href="mailto:aman.knj2006@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -34,10 +35,10 @@
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="65" height="65" />
-      <br>C
-    </td>
+   <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
+  <br>C
+</td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
@@ -88,5 +89,13 @@
     <img width="37%" height="auto" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyamankanojiya&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" 
       alt="Top Languages">
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codedbyamankanojiya/codedbyamankanojiya/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codedbyamankanojiya/codedbyamankanojiya/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/codedbyamankanojiya/codedbyamankanojiya/output/github-snake.svg" />
   </picture>
 </div>
