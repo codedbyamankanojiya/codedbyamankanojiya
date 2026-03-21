@@ -63,17 +63,14 @@
 </table>
 </div>
 
+<h2 align="center">Top Languages:</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyamankanojiya&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+</div>
+
 <h2 align="center">Current Projects:</h2>
 <p align="center">
   <b>Aiva:</b> AI Personal Coach for Interviews | 
   <b>Project Nirbhaya:</b> Women's Safety App | 
   <b>AgriShield AI:</b> Crop Disease Detection
 </p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codedbyamankanojiya/codedbyamankanojiya/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codedbyamankanojiya/codedbyamankanojiya/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/codedbyamankanojiya/codedbyamankanojiya/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
