@@ -63,11 +63,6 @@
 </table>
 </div>
 
-<h2 align="center">Top Languages:</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyamankanojiya&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</div>
-
 <h2 align="center">Current Projects:</h2>
 <p align="center">
   <b>Aiva:</b> AI Personal Coach for Interviews | 
