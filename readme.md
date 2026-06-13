@@ -67,5 +67,4 @@
 <p align="center">
   <b>Aiva:</b> AI Personal Coach for Interviews | 
   <b>Project Nirbhaya:</b> Women's Safety App | 
-  <b>PopKart:</b> Modern E-Commerce Website |
 </p>
