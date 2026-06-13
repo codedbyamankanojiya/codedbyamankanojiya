@@ -223,13 +223,11 @@ Focus Areas:
 | Certification                           | Issuing Organization / Platform         |
 | :-------------------------------------- | :-------------------------------------- |
 | **Artificial Intelligence**             | Google Cloud                            |
-| **Google Developer Groups (GDG)**       | Google Developer Groups                 |
-| **Introduction to Cyber Security**      | Simplilearn                             |
-| **React JS Certification**              | Smarted                                 |
 | **Full Stack Web Development**          | Udemy                                   |
 | **Machine Learning using Python**       | Simplilearn                             |
+| **Introduction to Cyber Security**      | Simplilearn                             |
 | **Data Structures & Algorithms**        | LetsUpgrade                             |
-| **Canva Bootcamp**                      | LetsUpgrade                             |
+| **Google Developer Groups (GDG)**       | Google Developer Groups                 |
 
 ---
 
