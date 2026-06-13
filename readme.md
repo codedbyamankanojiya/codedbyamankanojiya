@@ -245,46 +245,7 @@ Focus Areas:
 </p>
 
 <p align="center">
-  <a href="https://github.com/codedbyamankanojiya">
-    <img src="https://streak-stats.demolab.com?user=codedbyamankanojiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <b>Aiva:</b> AI Personal Coach for Interviews | 
+  <b>Project Nirbhaya:</b> Women's Safety App | 
+  <b>PopKart:</b> Modern E-Commerce Website |
 </p>
-
-<details>
-  <summary>🏆 <b>View Extended Activity Graph & Trophies</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=codedbyamankanojiya&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedbyamankanojiya&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-  </p>
-</details>
-
----
-
-# 🎨 Beyond Coding
-
-When I am not developing codebases or managing deployment servers, I explore my creative side:
-
-* 🎨 **Digital Art & Sketching** — View my creative illustrations and concepts on Instagram: [@amankanojiyaart](https://instagram.com/amankanojiyaart)
-* 📐 **UI/UX Design** — Crafting beautiful, user-centered application prototypes.
-* 🤝 **Open Source** — Contributing to tools that help simplify workflows for students and developers.
-* 💬 **Discord Handle:** `deadshot.99`
-* 📸 **Personal Instagram:** [@alw4ys.ammy](https://instagram.com/alw4ys.ammy)
-* 🐦 **Twitter / X:** [@AKnj08](https://twitter.com/AKnj08)
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=codedbyamankanojiya&style=for-the-badge&color=7C3AED" alt="Profile Views" />
-
-<br/>
-<br/>
-
-> **"Building solutions that create impact."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7" width="100%" />
-
-</div>
