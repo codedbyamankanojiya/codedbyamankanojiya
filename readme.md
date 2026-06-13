@@ -233,19 +233,4 @@ Focus Areas:
 
 ---
 
-# 📊 GitHub Stats & Analytics
-
-<p align="center">
-  <a href="https://github.com/codedbyamankanojiya">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codedbyamankanojiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/codedbyamankanojiya">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyamankanojiya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Aiva:</b> AI Personal Coach for Interviews | 
-  <b>Project Nirbhaya:</b> Women's Safety App | 
-  <b>PopKart:</b> Modern E-Commerce Website |
 </p>
