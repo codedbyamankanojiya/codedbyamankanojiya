@@ -15,11 +15,20 @@
   <a href="https://codedbyamankanojiya.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/codedbyamankanojiya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/aman-kanojiya-7386822b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:aman.knj2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/amankanojiyaart" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/AKnj08" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-deadshot.99-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
@@ -72,8 +81,8 @@ Focus Areas:
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" />
+      <br>Next.js
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="65" height="65" />
@@ -88,8 +97,8 @@ Focus Areas:
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
@@ -105,12 +114,16 @@ Focus Areas:
 
 ### 🌐 Ecosystem & Supporting Libraries
 
-|        Category             |                   Technologies                       |
-| :-------------------------- | :--------------------------------------------------- |
-| **Frontend Utilities**      | HTML5, CSS3,React.js, Next.js,TailwindCSS,Bootstrap  |
-| **Backend Frameworks**      | Node.js, Express, Django                             |
-| **Databases**               | MongoDB,PostgreSQL,MySQL                             |
-| **DevOps & Infrastructure** | GitHub Actions, Git, VSCode, Docker,                 |
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend Utilities** | HTML5, CSS3, React.js, Next.js, TailwindCSS, Bootstrap |
+| **Backend Details** | Node.js, Express.js,Django, FastAPI, C++, Python |
+| **Databases** | Supabase, MongoDB, PostgreSQL,  |
+| **Services** | Razorpay, Cloudinary, Prisma, Openrouter, Flask |
+| **AI & ML** | TensorFlow, TensorFlow Lite, PyTorch, Mediapipe |
+| **Android** | Android Studio, Expo, Flutter |
+| **DevOps & Infrastructure** | GitHub Actions, Git, VSCode, Docker |
+| **Designing** | Figma, Canva, Microsoft Designer, Google Stitch |
 
 ---
 
@@ -120,9 +133,8 @@ Focus Areas:
 *June 2026 – July 2026*
 
 * **Full-Stack Engineering:** Developed and deployed responsive web applications ensuring high performance and cross-browser compatibility.
-* **API Architecture:** Designed and integrated secure RESTful APIs to handle application workflows.
-* **Database & Workflows:** Structured database models and queries using MongoDB and MySQL.
-* **Version Control & Collaboration:** Maintained version control using Git, participating in code reviews and agile team collaborative workflows.
+* **Database & Workflows:** Structured database models and queries using MongoDB.
+* **Version Control:** Maintained version control using Git.
 
 ---
 
@@ -138,7 +150,7 @@ Focus Areas:
 </details>
 
 <details>
-<summary><b>🛒 E-Commerce Platform</b></summary>
+<summary><b>🛒 NexCart - E-Commerce Store</b></summary>
 <br/>
 
 * **Description:** A modern e-commerce storefront featuring secure checkout pipelines, inventory systems, and user authentication.
@@ -147,7 +159,7 @@ Focus Areas:
 </details>
 
 <details>
-<summary><b>🌾 AgriShield</b></summary>
+<summary><b>🌾 AgriShield - AI Agritech</b></summary>
 <br/>
 
 * **Description:** An agritech platform built to assist farmers in monitoring soil health, weather patterns, and crop disease management.
@@ -156,7 +168,7 @@ Focus Areas:
 </details>
 
 <details>
-<summary><b>🔐 SafeBox</b></summary>
+<summary><b>🔐 SafeBox - Secure Document Storage</b></summary>
 <br/>
 
 * **Description:** A high-security document storage locker focused on maintaining absolute user privacy and data encryption.
@@ -165,7 +177,7 @@ Focus Areas:
 </details>
 
 <details>
-<summary><b>🏦 Secure Bank</b></summary>
+<summary><b>🏦 Secure Bank - Online Banking Portal</b></summary>
 <br/>
 
 * **Description:** A simulated online banking portal built to demonstrate secure transaction pipelines and defenses against common web vulnerabilities.
@@ -201,7 +213,7 @@ Focus Areas:
 </details>
 
 <details>
-<summary><b>🐍 Snake Game</b></summary>
+<summary><b>🐍 Venom Run - Snake Game</b></summary>
 <br/>
 
 * **Description:** A retro-themed desktop Snake game implementing clean game loop patterns and score-tracking systems.
@@ -211,10 +223,36 @@ Focus Areas:
 
 ---
 
-# ⚙️ DevOps & Cloud Goals
+# ⚙️ DevOps & Cloud
 
 * 🐳 **Current Competencies:** Docker, GitHub Actions, CI/CD Automation, Linux Systems, Git
-* 🚀 **Future Milestones:** Kubernetes (K8s), AWS Cloud Services, Terraform (IaC), Cloud Native Architectures
+
+---
+
+# 🏆 Hackathon Highlights
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <br />
+      <h4>⚡ IEEE TECHNITHON – HACKDECK 2.0</h4>
+      <p align="center"><small>Jan 2026 | Atharva University, Mumbai</small></p>
+      <p align="center">🏷️ Team: <code>Pythasauras</code></p>
+      <p align="center">🎯 Role: <b>Full-Stack & System Design</b> </p>
+      <p align="center">📈 Improved AI/ML system, Created Entire frontend for the project</p>
+      <br />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <br />
+      <h4>🧠 AArohan 1.0</h4>
+      <p align="center"><small>Feb 2026 | D.Y Patil, Nerul, Navi Mumbai</small></p>
+      <p align="center">🏷️ Team: <code>Pythasauras</code></p>
+      <p align="center">🎯 Role: <b>Full-Stack</b></p>
+      <p align="center">🚀 Animated Cinematic & Futuristic UI Design, Real-Time Face Tracking System with 97% Accuracy</p>
+      <br />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -231,4 +269,12 @@ Focus Areas:
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7" width="100%" />
+
+<p align="center">
+  ⭐ <b>If you find my work interesting, give it a star! Let's build something great together.</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codedbyamankanojiya&label=Profile%20Views&color=7C3AED&style=flat" alt="Profile Views" />
 </p>
