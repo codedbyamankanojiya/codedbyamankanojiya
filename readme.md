@@ -63,7 +63,7 @@ Focus Areas:
 
 # 🛠️ Tech Stack & Tools
 
-### ⚡ Languages & Core Technologies (Interactive Moving Icons)
+### ⚡ Languages & Core Technologies
 
 <div align="center">
 <table align="center">
@@ -248,7 +248,7 @@ Focus Areas:
       <p align="center"><small>Feb 2026 | D.Y Patil, Nerul, Navi Mumbai</small></p>
       <p align="center">🏷️ Team: <code>Pythasauras</code></p>
       <p align="center">🎯 Role: <b>Full-Stack</b></p>
-      <p align="center">🚀 Animated Cinematic & Futuristic UI Design, Real-Time Face Tracking System with 97% Accuracy</p>
+      <p align="center">🚀 Animated Cinematic & Futuristic UI Design, Real-Time Face Tracking System with 97% Accuracy (Secured Top 20 Position)</p>
       <br />
     </td>
   </tr>
