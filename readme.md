@@ -141,29 +141,29 @@ Focus Areas:
 # 🌟 Featured Projects
 
 <details>
-<summary><b>🤖 AIVA — AI Virtual Assistant</b></summary>
+<summary><b>🤖 AIVA — AI Virtual Assistant & Interview Coach</b></summary>
 <br/>
 
 * **Description:** An AI-powered virtual assistant built to streamline user productivity, manage schedules, and automate daily tasks through natural language.
-* **Tech Stack:** React, Node.js, AI APIs (OpenAI/Gemini), MongoDB
+* **Tech Stack:** React, Typrescript, Tailwind CSS, Framer Motion using Three,js, Javascript, TensorFlow, Mediapipe, Python, FastAPI, ElevenLabs TTS, Pydantic, Lenis, AI APIs
 * **Key Features:** Speech-to-text integration, interactive dashboard, and automated scheduling workflows.
 </details>
 
 <details>
-<summary><b>🛒 NexCart - E-Commerce Store</b></summary>
+<summary><b>🛒 NexCart - Modern E-Commerce Store</b></summary>
 <br/>
 
 * **Description:** A modern e-commerce storefront featuring secure checkout pipelines, inventory systems, and user authentication.
-* **Tech Stack:** React, Node.js, Express, MongoDB
+* **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB
 * **Key Features:** JWT-based user authentication, Stripe payment simulation, and dynamic product filtering.
 </details>
 
 <details>
-<summary><b>🌾 AgriShield - AI Agritech</b></summary>
+<summary><b>🌾 AgriShield - AI Agritech & Crop Disease Detector</b></summary>
 <br/>
 
 * **Description:** An agritech platform built to assist farmers in monitoring soil health, weather patterns, and crop disease management.
-* **Tech Stack:** Python, Machine Learning APIs, React, IoT Sensors
+* **Tech Stack:** Python, React, Tailwind CSS, Javascript, AI
 * **Key Features:** Weather forecasts, soil nutrient analyzer, and crop disease classification.
 </details>
 
@@ -172,7 +172,7 @@ Focus Areas:
 <br/>
 
 * **Description:** A high-security document storage locker focused on maintaining absolute user privacy and data encryption.
-* **Tech Stack:** Node.js, React, Web Crypto API
+* **Tech Stack:** Python, CustomTkinter (GUI), AES-256-GCM (Authenticated Encryption), Web Crypto API
 * **Key Features:** End-to-end client-side encryption, secure file sharing via temporary access keys.
 </details>
 
@@ -181,7 +181,7 @@ Focus Areas:
 <br/>
 
 * **Description:** A simulated online banking portal built to demonstrate secure transaction pipelines and defenses against common web vulnerabilities.
-* **Tech Stack:** Java, Spring Boot, MySQL, Thymeleaf
+* **Tech Stack:** Python, CustomTKinter, SQLite
 * **Key Features:** Multi-factor authentication, transaction logging, and validation checks.
 </details>
 
@@ -190,7 +190,7 @@ Focus Areas:
 <br/>
 
 * **Description:** A dedicated safety application designed to provide instantaneous location tracking and automated SOS alerts in emergency situations.
-* **Tech Stack:** Flutter/React Native, Google Maps API, Firebase
+* **Tech Stack:** Flutter/React Native, Next.js, Node.js with Express.js, Tailwind CSS, MongoDB, TensorFlow, Google Maps API,etc.
 * **Key Features:** Panic button trigger, real-time family tracking, and direct emergency line routing.
 </details>
 
@@ -217,7 +217,7 @@ Focus Areas:
 <br/>
 
 * **Description:** A retro-themed desktop Snake game implementing clean game loop patterns and score-tracking systems.
-* **Tech Stack:** Python (Pygame) / C++
+* **Tech Stack:** Python (Pygame)
 * **Key Features:** Custom high score boards, smooth mechanics, and retro animations.
 </details>
 
