@@ -186,12 +186,12 @@ Focus Areas:
 </details>
 
 <details>
-<summary><b>🛡️ Nirbhaya — Women's Safety App</b></summary>
+<summary><b>🛡️ Nirbhaya — Women's Safety & Emergency Assistance Platform</b></summary>
 <br/>
 
-* **Description:** A dedicated safety application designed to provide instantaneous location tracking and automated SOS alerts in emergency situations.
-* **Tech Stack:** Flutter/React Native, Next.js, Node.js with Express.js, Tailwind CSS, MongoDB, TensorFlow, Google Maps API,etc.
-* **Key Features:** Panic button trigger, real-time family tracking, and direct emergency line routing.
+* **Description:** A mobile-first women’s safety application featuring a prominent one-tap SOS emergency button, smart fake call generator, quick emergency contact dialer, personal safety profile, and incident reporting.
+* **Tech Stack:** Next.js 15, React 19, TypeScript, Angular 21, NestJS 11, Prisma 7, PostgreSQL, JWT Auth, Tailwind CSS, Cloudinary
+* **Key Features:** One-tap SOS alert button, smart fake call generator, quick emergency contact dialer, medical emergency profile, and incident evidence uploads.
 </details>
 
 <details>
