@@ -195,6 +195,15 @@ Focus Areas:
 </details>
 
 <details>
+<summary><b>🚂 IoT-Based Automatic Railway Level Crossing System</b></summary>
+<br/>
+
+* **Description:** An automated railway safety system engineered with ESP32 microcontrollers, LoRa long-range wireless telemetry, radar sensing, and servo actuators for real-time train approach detection and automated barrier gate control.
+* **Tech Stack:** ESP32, LoRa Telemetry, Embedded C/C++, IoT, Radar Sensor, Servo Control, Hardware Integration
+* **Key Features:** Long-range wireless train detection via LoRa, radar-based approach detection, fail-safe automated servo gate actuation, and low-latency hardware control logic.
+</details>
+
+<details>
 <summary><b>📚 Attendance Management System</b></summary>
 <br/>
 
