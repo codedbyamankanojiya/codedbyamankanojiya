@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,50:7C3AED,100:A855F7&text=Aman%20Kanojiya&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast%20%7C%20Bachelor%20of%20Computer%20Applications&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,50:7C3AED,100:A855F7&text=Aman%20Kanojiya&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Android%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20DevOps%20Enthusiast&descAlignY=55" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Python;DevOps+Enthusiast;Building+Scalable+Digital+Solutions;Always+Learning+%26+Shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Android+Application+Developer;Kotlin+%7C+Flutter+%7C+React+%7C+Node.js;Full-Stack+Engineer+%7C+DevOps+Enthusiast;Building+Scalable+Mobile+%26+Web+Solutions;Always+Learning+%26+Shipping)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/BCA-CSMU_Panvel-7C3AED?style=for-the-badge" alt="BCA" />
@@ -38,9 +38,9 @@
 
 # 🚀 About Me
 
-I am a results-driven **Full-Stack Developer** and **DevOps Enthusiast** passionate about engineering scalable, secure, and user-centric digital solutions. With a strong foundation in modern web technologies and cloud workflows, I focus on bridging the gap between clean frontend experiences and robust backend architectures. 
+I am a results-driven **Android App Developer**, **Full-Stack Engineer**, and **DevOps Enthusiast** passionate about building high-performance mobile applications and scalable digital solutions. Currently interning as an **Android Application Developer at SyntecxHub**, I specialize in engineering intuitive mobile experiences using **Kotlin** and **Flutter**, alongside robust full-stack web architectures and cloud automation.
 
-I actively collaborate on open-source projects, design automation pipelines, and integrate AI technologies to build impact-driven applications.
+I actively collaborate on open-source projects, build AI-powered solutions, design CI/CD pipelines, and bridge the gap between clean mobile/web user experiences and resilient backend architectures.
 
 ---
 
@@ -51,18 +51,15 @@ Name: Aman Kanojiya
 Education: Bachelor of Computer Applications (BCA)
 University: Chhatrapati Shivaji Maharaj University (Panvel)
 Location: Navi Mumbai, India
-Current Role: Full Stack Developer Intern @ CodeAlpha
+Current Role: Android App Developer @ SyntecxHub
 Focus Areas:
-  - Scalable Web Applications
+  - Android & Cross-Platform App Development
+  - Scalable Full-Stack Web Applications
   - DevOps & CI/CD Automation
-  - Cyber Security & Encryption
   - AI-Powered Solutions
 ```
 
 ---
-
-# 🛠️ Tech Stack & Tools
-
 ### ⚡ Languages & Core Technologies
 
 <div align="center">
@@ -77,8 +74,8 @@ Focus Areas:
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="65" height="65" />
+      <br>Kotlin
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" />
@@ -101,8 +98,8 @@ Focus Areas:
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-      <br>Django
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="65" height="65" />
+      <br>Flutter
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
@@ -121,13 +118,20 @@ Focus Areas:
 | **Databases** | Supabase, MongoDB, PostgreSQL,  |
 | **Services** | Razorpay, Cloudinary, Prisma, Openrouter, Flask |
 | **AI & ML** | TensorFlow, TensorFlow Lite, PyTorch, Mediapipe |
-| **Android** | Android Studio, Expo, Flutter |
+| **Android** | Android Studio, Kotlin, Expo, Flutter |
 | **DevOps & Infrastructure** | GitHub Actions, Git, VSCode, Docker |
 | **Designing** | Figma, Canva, Microsoft Designer, Google Stitch |
 
 ---
 
 # 💼 Professional Experience
+
+### **SyntecxHub — Android Application Developer Intern**
+*August 2026 – Present*
+
+* **Android Application Development:** Building native and cross-platform mobile applications using Kotlin and Flutter.
+* **UI/UX & Performance:** Engineering responsive mobile interfaces and optimizing app architecture.
+* **Version Control & Collaboration:** Collaborating using Git for version control and modular app delivery.
 
 ### **CodeAlpha — Full Stack Developer Intern**
 *June 2026 – July 2026*
