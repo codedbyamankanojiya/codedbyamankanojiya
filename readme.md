@@ -144,94 +144,173 @@ Focus Areas:
 
 # 🌟 Featured Projects
 
-<details>
-<summary><b>🤖 AIVA — AI Virtual Assistant & Interview Coach</b></summary>
+<details open>
+<summary><b>🤖 Aiva — AI Virtual Assistant & Interview Coach</b> <code>👑 Flagship Project</code></summary>
 <br/>
 
-* **Description:** An AI-powered virtual assistant built to streamline user productivity, manage schedules, and automate daily tasks through natural language.
-* **Tech Stack:** React, Typrescript, Tailwind CSS, Framer Motion using Three,js, Javascript, TensorFlow, Mediapipe, Python, FastAPI, ElevenLabs TTS, Pydantic, Lenis, AI APIs
-* **Key Features:** Speech-to-text integration, interactive dashboard, and automated scheduling workflows.
+* **Tech Stack:** React 18, TypeScript, Vite, Tailwind CSS, Framer Motion, TensorFlow.js, face-api, Python, FastAPI, ElevenLabs TTS, Pydantic, Lenis
+* **Description:** AI-driven coach that deconstructs interview performance into three pillars — body language, vocal delivery & logical accuracy — then builds personalized roadmaps for success.
+* **Key Features:**
+  * Real-time face tracking & emotion analysis via edge computing
+  * 50+ role-specific mock interviews with difficulty progression
+  * Ultra-realistic voice synthesis with ElevenLabs API
+  * Vision HUD with live performance metrics overlay
+  * Cinematic glassmorphism UI with smooth animations
+  * Detailed analytics & personalized improvement roadmaps
+* **Links:** [GitHub Repository](https://github.com/codedbyamankanojiya/aiva)
 </details>
 
 <details>
-<summary><b>🛒 NexCart - Modern E-Commerce Store</b></summary>
+<summary><b>🌾 AgriShield-AI — Crop Disease Detection Platform</b></summary>
 <br/>
 
-* **Description:** A modern e-commerce storefront featuring secure checkout pipelines, inventory systems, and user authentication.
-* **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB
-* **Key Features:** JWT-based user authentication, Stripe payment simulation, and dynamic product filtering.
+* **Tech Stack:** React 19, Vite, Node.js, Express, Gemini 1.5 Flash API, SQLite, MongoDB, TailwindCSS, RAG Pipeline
+* **Description:** A next-gen intelligent platform for crop disease detection powered by Google's Gemini 1.5 Flash AI. Combines multimodal AI analysis with real-time weather data and specialized treatment knowledge base to provide farmers with instant, context-aware crop disease diagnosis and recovery protocols.
+* **Key Features:**
+  * Advanced AI diagnostics using Gemini 1.5 Flash multimodal AI
+  * Context-aware RAG integrating hyper-local weather data
+  * Curated treatment knowledge base with verified agricultural protocols
+  * Real-time scan data sync with SQLite backend for outbreak monitoring
+  * Stunning "Nature Meets Cyber" UI with glassmorphism and fluid animations
+  * Offline-capable caching with IndexedDB for rural accessibility
+* **Links:** [Live Demo](https://agrishieldtech.vercel.app)
 </details>
 
 <details>
-<summary><b>🌾 AgriShield - AI Agritech & Crop Disease Detector</b></summary>
+<summary><b>🛡️ Nirbhaya — Women's Safety & Emergency Assistance Platform</b> <code>⏳ Work in Progress • Flutter</code></summary>
 <br/>
 
-* **Description:** An agritech platform built to assist farmers in monitoring soil health, weather patterns, and crop disease management.
-* **Tech Stack:** Python, React, Tailwind CSS, Javascript, AI
-* **Key Features:** Weather forecasts, soil nutrient analyzer, and crop disease classification.
+* **Tech Stack:** Flutter, Dart, Riverpod, GoRouter, Dio, Material 3, Geolocator (GPS), FlutterSecureStorage, NestJS 11, TypeScript, Prisma 7, PostgreSQL, JWT Auth, Cloudinary
+* **Description:** An enterprise-grade cross-platform mobile safety application engineered with Flutter and Clean Architecture for immediate personal safety and rapid emergency response. Features one-tap SOS distress alerts with live GPS tracking, smart fake call de-escalation, emergency dialing, medical ID, and encrypted incident evidence reporting.
+* **Key Features:**
+  * One-tap SOS distress trigger with live GPS geolocator & haptics
+  * Smart fake call simulator for discreet situation de-escalation
+  * Emergency contacts manager with direct phone & SMS dialing
+  * Medical emergency ID & incident evidence reporting via NestJS backend
+* **Links:** [Live Demo](https://theprojectnirbhaya.vercel.app)
 </details>
 
 <details>
-<summary><b>🔐 SafeBox - Secure Document Storage</b></summary>
+<summary><b>🛒 Nexcart — Modern E-Commerce Store</b></summary>
 <br/>
 
-* **Description:** A high-security document storage locker focused on maintaining absolute user privacy and data encryption.
-* **Tech Stack:** Python, CustomTkinter (GUI), AES-256-GCM (Authenticated Encryption), Web Crypto API
-* **Key Features:** End-to-end client-side encryption, secure file sharing via temporary access keys.
-</details>
-
-<details>
-<summary><b>🏦 Secure Bank - Online Banking Portal</b></summary>
-<br/>
-
-* **Description:** A simulated online banking portal built to demonstrate secure transaction pipelines and defenses against common web vulnerabilities.
-* **Tech Stack:** Python, CustomTKinter, SQLite
-* **Key Features:** Multi-factor authentication, transaction logging, and validation checks.
-</details>
-
-<details>
-<summary><b>🛡️ Nirbhaya — Women's Safety & Emergency Assistance Platform</b></summary>
-<br/>
-
-* **Description:** A mobile-first women’s safety application featuring a prominent one-tap SOS emergency button, smart fake call generator, quick emergency contact dialer, personal safety profile, and incident reporting.
-* **Tech Stack:** Next.js 15, React 19, TypeScript, Angular 21, NestJS 11, Prisma 7, PostgreSQL, JWT Auth, Tailwind CSS, Cloudinary
-* **Key Features:** One-tap SOS alert button, smart fake call generator, quick emergency contact dialer, medical emergency profile, and incident evidence uploads.
+* **Tech Stack:** React 18, Vite, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, JWT Auth, REST API
+* **Description:** A cutting-edge e-commerce platform built with React, Vite, Node.js, Express, and MongoDB. It features a sleek, intuitive interface, robust REST APIs, secure user authentication with JWT, dynamic cart management, and blazing-fast performance.
+* **Key Features:**
+  * Modern, glassmorphic responsive UI with fluid animations
+  * User authentication system with JWT & secure session handling
+  * Advanced product catalog search, category filtering & sorting
+  * Dynamic shopping cart management with real-time price updates
+* **Links:** [Live Store](https://thenexcartstore.vercel.app)
 </details>
 
 <details>
 <summary><b>🚂 IoT-Based Automatic Railway Level Crossing System</b></summary>
 <br/>
 
-* **Description:** An automated railway safety system engineered with ESP32 microcontrollers, LoRa long-range wireless telemetry, radar sensing, and servo actuators for real-time train approach detection and automated barrier gate control.
-* **Tech Stack:** ESP32, LoRa Telemetry, Embedded C/C++, IoT, Radar Sensor, Servo Control, Hardware Integration
-* **Key Features:** Long-range wireless train detection via LoRa, radar-based approach detection, fail-safe automated servo gate actuation, and low-latency hardware control logic.
+* **Tech Stack:** ESP32, LoRa Telemetry, Embedded C/C++, IoT, Radar Sensor, Servo Control, Hardware Integration, Embedded Systems
+* **Description:** An automated railway safety system developed using ESP32, LoRa long-range wireless telemetry, radar sensing, and servo actuators. It wirelessly detects approaching trains, automatically lowers crossing gates, and safely reopens them after train passage.
+* **Key Features:**
+  * Wireless long-range train detection utilizing LoRa telemetry & ESP32 microcontrollers
+  * Radar sensor integration for accurate, real-time train approach detection
+  * Automated servo motor gate actuation with fail-safe automatic opening post-passage
+  * Hardware-level sensor interfacing and low-latency Embedded C/C++ control logic
 </details>
 
 <details>
-<summary><b>📚 Attendance Management System</b></summary>
+<summary><b>🏆 WGM Quiz — Who's Gonna Be Millionaire</b></summary>
 <br/>
 
-* **Description:** A desktop application designed to log and manage student attendance registers systematically.
-* **Tech Stack:** Python, Tkinter, SQLite, CSV Export
-* **Key Features:** Automatic Excel/CSV spreadsheet report exports, automated daily logs.
+* **Tech Stack:** Kotlin, Jetpack Compose, Material 3, MVVM & UDF, Room Database, Coroutines & Flow, MediaPlayer, SoundPool
+* **Description:** A high-production Android trivia quiz game inspired by the iconic *Kaun Banega Crorepati* / *Millionaire* show. Built with Jetpack Compose and MVVM architecture, featuring immersive audio, a 15-tier prize ladder, countdown timer, and 4 lifelines.
+* **Key Features:**
+  * Progressive 15-tier money ladder from ₹1,000 to ₹7 Crores with safe-haven milestones
+  * Complete 4-lifeline system: 50:50, Audience Poll, Flip the Question, and Extra Life
+  * Immersive audio engine with looping background music and low-latency SoundPool SFX
+  * Room DB with 45 hand-crafted questions across 15 progressive difficulty tiers
 </details>
 
 <details>
-<summary><b>🎓 CGPA Calculator</b></summary>
+<summary><b>📺 DeshNews 24/7 — Broadcast News & Article App</b></summary>
 <br/>
 
-* **Description:** An efficient utility application to compute and keep track of academic credits, grade points, and cumulative GPA.
-* **Tech Stack:** C++
-* **Key Features:** Fast CLI execution, multiple semester tracking, and GPA estimation tools.
+* **Tech Stack:** Kotlin, Jetpack Compose, Material 3, Clean Architecture, Jsoup Web Scraping, Room Database, Retrofit, GNews API
+* **Description:** A broadcast-style Android news reporting application inspired by live TV news studio aesthetics. Features breaking news carousels, Jsoup-based full-text article extraction for seamless native reading without external browser redirects, and offline-first Room database caching.
+* **Key Features:**
+  * Native full-text article extraction using Jsoup background web scraping
+  * Offline-first caching with Room DB and instant cached story fallback
+  * Live studio broadcast UI with breaking banners and studio carousel
+  * Real-time top headlines integration via GNews REST API
 </details>
 
 <details>
-<summary><b>🐍 Venom Run - Snake Game</b></summary>
+<summary><b>🔐 SafeBox — Secure File Manager</b></summary>
 <br/>
 
-* **Description:** A retro-themed desktop Snake game implementing clean game loop patterns and score-tracking systems.
-* **Tech Stack:** Python (Pygame)
-* **Key Features:** Custom high score boards, smooth mechanics, and retro animations.
+* **Tech Stack:** Python, Tkinter, Cryptography, File Security, AES-256
+* **Description:** A Python-based security application ensuring file privacy through advanced encryption. Features include folder encryption, secure file shredding, and a professional user interface with dark mode support.
+* **Key Features:**
+  * Folder encryption and decryption mechanism
+  * Secure file deletion (shredding)
+  * Professional UI with dark mode support
+  * Password protection and access control
+* **Links:** [GitHub Repository](https://github.com/codedbyamankanojiya/SafeBox)
+</details>
+
+<details>
+<summary><b>🏦 SecureBank — Bank Management System</b></summary>
+<br/>
+
+* **Tech Stack:** Python, File Handling, OOP, CLI Application
+* **Description:** A Python-based bank management system that simulates real-world banking operations. Features include account creation, balance inquiries, deposits, withdrawals, and transaction tracking.
+* **Key Features:**
+  * Account creation and customer data management
+  * Deposits, withdrawals, and balance inquiries
+  * Input validation and comprehensive error handling
+  * Persistent storage via file operations
+* **Links:** [GitHub Repository](https://github.com/codedbyamankanojiya/SecureBank)
+</details>
+
+<details>
+<summary><b>📚 Class Attendance System</b></summary>
+<br/>
+
+* **Tech Stack:** Python, File Handling, Data Processing, SQLite, CLI Interface
+* **Description:** A Python-based attendance management system for classes that automates student attendance tracking, report generation, and data visualization.
+* **Key Features:**
+  * Automated attendance tracking and marking
+  * Database Architecture with SQLite
+  * Report generation and data visualization
+  * Seamless data conversion between CSV/Excel formats
+* **Links:** [GitHub Repository](https://github.com/codedbyamankanojiya/Class-Management-App)
+</details>
+
+<details>
+<summary><b>🐍 Venom Run — Snake Game</b></summary>
+<br/>
+
+* **Tech Stack:** Python, Pygame, Object-Oriented Programming, Game Development
+* **Description:** A classic Snake Game developed using Python and Pygame. Features include collision detection, score tracking, increasing difficulty levels, and responsive controls.
+* **Key Features:**
+  * Real-time collision detection and game-over logic
+  * Dynamic score tracking and high score saving
+  * Increasing speed and difficulty as you progress
+  * Responsive keyboard controls for smooth gameplay
+* **Links:** [GitHub Repository](https://github.com/codedbyamankanojiya/Venom-Run)
+</details>
+
+<details>
+<summary><b>🎓 CGPA Calculator & Academic Manager</b></summary>
+<br/>
+
+* **Tech Stack:** C++, Python, Tkinter, CSV Data Handling
+* **Description:** A robust application for tracking academic performance, featuring a C++ core for logic and a Python-based GUI for a seamless user experience.
+* **Key Features:**
+  * Dual interface: C++ Console & Python GUI
+  * Accurate semester-wise CGPA calculation
+  * Persistent student profile management via CSV
+  * One-click launcher integration
+* **Links:** [GitHub Repository](https://github.com/codedbyamankanojiya/CGPA-Calculator)
 </details>
 
 ---
