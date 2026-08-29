@@ -129,7 +129,7 @@ Focus Areas:
 ### **SyntecxHub — Android Application Developer Intern**
 *August 2026 – Present*
 
-* **Android Application Development:** Building native and cross-platform mobile applications using Kotlin and Flutter.
+* **Android Application Development:** Building native and cross-platform mobile applications using Kotlin.
 * **UI/UX & Performance:** Engineering responsive mobile interfaces and optimizing app architecture.
 * **Version Control & Collaboration:** Collaborating using Git for version control and modular app delivery.
 
@@ -142,7 +142,53 @@ Focus Areas:
 
 ---
 
-# 🌟 Featured Projects
+# �### 📱 Mobile & Cross-Platform Applications
+
+<details open>
+<summary><b>🛡️ Nirbhaya — Women's Safety & Emergency Assistance Platform</b> <code>⏳ Work in Progress • Flutter & Next.js</code></summary>
+<br/>
+
+* **Tech Stack:** Flutter, Dart, Riverpod, GoRouter, Dio, Material 3, Next.js 15, React 19, Tailwind CSS, NestJS 11, TypeScript, Prisma 7, PostgreSQL, JWT Auth, Cloudinary
+* **Description:** An enterprise-grade cross-platform mobile safety application engineered with Flutter and Clean Architecture for immediate personal safety and rapid emergency response. Features one-tap SOS distress alerts with live GPS tracking, smart fake call de-escalation, emergency dialing, medical ID, and encrypted incident evidence reporting.
+* **Key Features:**
+  * One-tap SOS distress trigger with live GPS geolocator & haptics
+  * Smart fake call simulator for discreet situation de-escalation
+  * Emergency contacts manager with direct phone & SMS dialing
+  * Medical emergency ID & incident evidence reporting via NestJS backend
+  * **Interactive Demo Webview Available**: Full in-browser smartphone emulator built with Next.js 15, React 19, and Tailwind CSS.
+* **Links:** [Live Demo Webview](https://theprojectnirbhaya.vercel.app)
+</details>
+
+<details>
+<summary><b>🏆 WGM Quiz — Who's Gonna Be Millionaire</b></summary>
+<br/>
+
+* **Tech Stack:** Kotlin, Jetpack Compose, Material 3, MVVM & UDF, Room Database, Coroutines & Flow, MediaPlayer, SoundPool
+* **Description:** A high-production Android trivia quiz game inspired by the iconic *Kaun Banega Crorepati* / *Millionaire* show. Built with Jetpack Compose and MVVM architecture, featuring immersive audio, a 15-tier prize ladder, countdown timer, and 4 lifelines.
+* **Key Features:**
+  * Progressive 15-tier money ladder from ₹1,000 to ₹7 Crores with safe-haven milestones
+  * Complete 4-lifeline system: 50:50, Audience Poll, Flip the Question, and Extra Life
+  * Immersive audio engine with looping background music and low-latency SoundPool SFX
+  * Room DB with 45 hand-crafted questions across 15 progressive difficulty tiers
+* **Links:** [Download APK (v1.0.0)](https://github.com/codedbyamankanojiya/Syntecxhub-Tasks/releases/download/WGM-V-1.0.0/Millionaire.Quiz.apk)
+</details>
+
+<details>
+<summary><b>📺 DeshNews 24/7 — Broadcast News & Article App</b></summary>
+<br/>
+
+* **Tech Stack:** Kotlin, Jetpack Compose, Material 3, Clean Architecture, Jsoup Web Scraping, Room Database, Retrofit, GNews API
+* **Description:** A broadcast-style Android news reporting application inspired by live TV news studio aesthetics. Features breaking news carousels, Jsoup-based full-text article extraction for seamless native reading without external browser redirects, and offline-first Room database caching.
+* **Key Features:**
+  * Native full-text article extraction using Jsoup background web scraping
+  * Offline-first caching with Room DB and instant cached story fallback
+  * Live studio broadcast UI with breaking banners and studio carousel
+  * Real-time top headlines integration via GNews REST API
+* **Links:** [Download APK (v1.0)](https://github.com/codedbyamankanojiya/Syntecxhub-Tasks/releases/download/DN-V1.0/DeshNews.24-7.apk)
+</details> headlines integration via GNews REST API
+</details>
+
+### 🌐 Full-Stack Web Applications
 
 <details open>
 <summary><b>🤖 Aiva — AI Virtual Assistant & Interview Coach</b> <code>👑 Flagship Project</code></summary>
@@ -177,20 +223,6 @@ Focus Areas:
 </details>
 
 <details>
-<summary><b>🛡️ Nirbhaya — Women's Safety & Emergency Assistance Platform</b> <code>⏳ Work in Progress • Flutter</code></summary>
-<br/>
-
-* **Tech Stack:** Flutter, Dart, Riverpod, GoRouter, Dio, Material 3, Geolocator (GPS), FlutterSecureStorage, NestJS 11, TypeScript, Prisma 7, PostgreSQL, JWT Auth, Cloudinary
-* **Description:** An enterprise-grade cross-platform mobile safety application engineered with Flutter and Clean Architecture for immediate personal safety and rapid emergency response. Features one-tap SOS distress alerts with live GPS tracking, smart fake call de-escalation, emergency dialing, medical ID, and encrypted incident evidence reporting.
-* **Key Features:**
-  * One-tap SOS distress trigger with live GPS geolocator & haptics
-  * Smart fake call simulator for discreet situation de-escalation
-  * Emergency contacts manager with direct phone & SMS dialing
-  * Medical emergency ID & incident evidence reporting via NestJS backend
-* **Links:** [Live Demo](https://theprojectnirbhaya.vercel.app)
-</details>
-
-<details>
 <summary><b>🛒 Nexcart — Modern E-Commerce Store</b></summary>
 <br/>
 
@@ -203,6 +235,8 @@ Focus Areas:
   * Dynamic shopping cart management with real-time price updates
 * **Links:** [Live Store](https://thenexcartstore.vercel.app)
 </details>
+
+### 💻 C/C++, Python & Embedded Systems
 
 <details>
 <summary><b>🚂 IoT-Based Automatic Railway Level Crossing System</b></summary>
@@ -218,29 +252,17 @@ Focus Areas:
 </details>
 
 <details>
-<summary><b>🏆 WGM Quiz — Who's Gonna Be Millionaire</b></summary>
+<summary><b>🎓 CGPA Calculator & Academic Manager</b></summary>
 <br/>
 
-* **Tech Stack:** Kotlin, Jetpack Compose, Material 3, MVVM & UDF, Room Database, Coroutines & Flow, MediaPlayer, SoundPool
-* **Description:** A high-production Android trivia quiz game inspired by the iconic *Kaun Banega Crorepati* / *Millionaire* show. Built with Jetpack Compose and MVVM architecture, featuring immersive audio, a 15-tier prize ladder, countdown timer, and 4 lifelines.
+* **Tech Stack:** C++, Python, Tkinter, CSV Data Handling
+* **Description:** A robust application for tracking academic performance, featuring a C++ core for logic and a Python-based GUI for a seamless user experience.
 * **Key Features:**
-  * Progressive 15-tier money ladder from ₹1,000 to ₹7 Crores with safe-haven milestones
-  * Complete 4-lifeline system: 50:50, Audience Poll, Flip the Question, and Extra Life
-  * Immersive audio engine with looping background music and low-latency SoundPool SFX
-  * Room DB with 45 hand-crafted questions across 15 progressive difficulty tiers
-</details>
-
-<details>
-<summary><b>📺 DeshNews 24/7 — Broadcast News & Article App</b></summary>
-<br/>
-
-* **Tech Stack:** Kotlin, Jetpack Compose, Material 3, Clean Architecture, Jsoup Web Scraping, Room Database, Retrofit, GNews API
-* **Description:** A broadcast-style Android news reporting application inspired by live TV news studio aesthetics. Features breaking news carousels, Jsoup-based full-text article extraction for seamless native reading without external browser redirects, and offline-first Room database caching.
-* **Key Features:**
-  * Native full-text article extraction using Jsoup background web scraping
-  * Offline-first caching with Room DB and instant cached story fallback
-  * Live studio broadcast UI with breaking banners and studio carousel
-  * Real-time top headlines integration via GNews REST API
+  * Dual interface: C++ Console & Python GUI
+  * Accurate semester-wise CGPA calculation
+  * Persistent student profile management via CSV
+  * One-click launcher integration
+* **Links:** [GitHub Repository](https://github.com/codedbyamankanojiya/CGPA-Calculator)
 </details>
 
 <details>
@@ -297,20 +319,6 @@ Focus Areas:
   * Increasing speed and difficulty as you progress
   * Responsive keyboard controls for smooth gameplay
 * **Links:** [GitHub Repository](https://github.com/codedbyamankanojiya/Venom-Run)
-</details>
-
-<details>
-<summary><b>🎓 CGPA Calculator & Academic Manager</b></summary>
-<br/>
-
-* **Tech Stack:** C++, Python, Tkinter, CSV Data Handling
-* **Description:** A robust application for tracking academic performance, featuring a C++ core for logic and a Python-based GUI for a seamless user experience.
-* **Key Features:**
-  * Dual interface: C++ Console & Python GUI
-  * Accurate semester-wise CGPA calculation
-  * Persistent student profile management via CSV
-  * One-click launcher integration
-* **Links:** [GitHub Repository](https://github.com/codedbyamankanojiya/CGPA-Calculator)
 </details>
 
 ---
