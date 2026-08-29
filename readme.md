@@ -129,7 +129,7 @@ Focus Areas:
 ### **SyntecxHub — Android Application Developer Intern**
 *August 2026 – Present*
 
-* **Android Application Development:** Building native and cross-platform mobile applications using Kotlin and Flutter.
+* **Android Application Development:** Building native and cross-platform mobile applications using Kotlin & Flutter.
 * **UI/UX & Performance:** Engineering responsive mobile interfaces and optimizing app architecture.
 * **Version Control & Collaboration:** Collaborating using Git for version control and modular app delivery.
 
