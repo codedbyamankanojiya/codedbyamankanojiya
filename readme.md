@@ -114,8 +114,8 @@ Focus Areas:
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend Utilities** | HTML5, CSS3, React.js, Next.js, TailwindCSS, Bootstrap |
-| **Backend Details** | Node.js, Express.js,Django, FastAPI, C++, Python |
-| **Databases** | Supabase, MongoDB, PostgreSQL,  |
+| **Backend Details** | Node.js, Express.js, Django, FastAPI, C++, Python |
+| **Databases** | Supabase, MongoDB, PostgreSQL |
 | **Services** | Razorpay, Cloudinary, Prisma, Openrouter, Flask |
 | **AI & ML** | TensorFlow, TensorFlow Lite, PyTorch, Mediapipe |
 | **Android** | Android Studio, Kotlin, Expo, Flutter |
@@ -129,7 +129,7 @@ Focus Areas:
 ### **SyntecxHub — Android Application Developer Intern**
 *August 2026 – Present*
 
-* **Android Application Development:** Building native and cross-platform mobile applications using Kotlin.
+* **Android Application Development:** Building native and cross-platform mobile applications using Kotlin and Flutter.
 * **UI/UX & Performance:** Engineering responsive mobile interfaces and optimizing app architecture.
 * **Version Control & Collaboration:** Collaborating using Git for version control and modular app delivery.
 
@@ -142,7 +142,9 @@ Focus Areas:
 
 ---
 
-# �### 📱 Mobile & Cross-Platform Applications
+# 🌟 Featured Projects
+
+### 📱 Mobile & Cross-Platform Applications
 
 <details open>
 <summary><b>🛡️ Nirbhaya — Women's Safety & Emergency Assistance Platform</b> <code>⏳ Work in Progress • Flutter & Next.js</code></summary>
@@ -185,7 +187,6 @@ Focus Areas:
   * Live studio broadcast UI with breaking banners and studio carousel
   * Real-time top headlines integration via GNews REST API
 * **Links:** [Download APK (v1.0)](https://github.com/codedbyamankanojiya/Syntecxhub-Tasks/releases/download/DN-V1.0/DeshNews.24-7.apk)
-</details> headlines integration via GNews REST API
 </details>
 
 ### 🌐 Full-Stack Web Applications
@@ -252,20 +253,6 @@ Focus Areas:
 </details>
 
 <details>
-<summary><b>🎓 CGPA Calculator & Academic Manager</b></summary>
-<br/>
-
-* **Tech Stack:** C++, Python, Tkinter, CSV Data Handling
-* **Description:** A robust application for tracking academic performance, featuring a C++ core for logic and a Python-based GUI for a seamless user experience.
-* **Key Features:**
-  * Dual interface: C++ Console & Python GUI
-  * Accurate semester-wise CGPA calculation
-  * Persistent student profile management via CSV
-  * One-click launcher integration
-* **Links:** [GitHub Repository](https://github.com/codedbyamankanojiya/CGPA-Calculator)
-</details>
-
-<details>
 <summary><b>🔐 SafeBox — Secure File Manager</b></summary>
 <br/>
 
@@ -319,6 +306,20 @@ Focus Areas:
   * Increasing speed and difficulty as you progress
   * Responsive keyboard controls for smooth gameplay
 * **Links:** [GitHub Repository](https://github.com/codedbyamankanojiya/Venom-Run)
+</details>
+
+<details>
+<summary><b>🎓 CGPA Calculator & Academic Manager</b></summary>
+<br/>
+
+* **Tech Stack:** C++, Python, Tkinter, CSV Data Handling
+* **Description:** A robust application for tracking academic performance, featuring a C++ core for logic and a Python-based GUI for a seamless user experience.
+* **Key Features:**
+  * Dual interface: C++ Console & Python GUI
+  * Accurate semester-wise CGPA calculation
+  * Persistent student profile management via CSV
+  * One-click launcher integration
+* **Links:** [GitHub Repository](https://github.com/codedbyamankanojiya/CGPA-Calculator)
 </details>
 
 ---
