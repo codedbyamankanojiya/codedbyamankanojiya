@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,50:7C3AED,100:A855F7&text=Aman%20Kanojiya&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Android%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20DevOps%20Enthusiast&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,50:7C3AED,100:A855F7&text=Aman%20Kanojiya&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Mobile%20Application%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Aspiring%20DevOps%20Engineer&descAlignY=55" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Android+Application+Developer;Kotlin+%7C+Flutter+%7C+React+%7C+Node.js;Full-Stack+Engineer+%7C+DevOps+Enthusiast;Building+Scalable+Mobile+%26+Web+Solutions;Always+Learning+%26+Shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Mobile+Application+Developer;Flutter+%7C+Dart+%7C+Kotlin;Full-Stack+Engineer+%7C+Aspiring+DevOps+Engineer;Building+Scalable+Mobile+%26+Web+Solutions;Always+Learning+%26+Shipping)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/BCA-CSMU_Panvel-7C3AED?style=for-the-badge" alt="BCA" />
@@ -38,7 +38,7 @@
 
 # 🚀 About Me
 
-I am a results-driven **Android App Developer**, **Full-Stack Engineer**, and **DevOps Enthusiast** passionate about building high-performance mobile applications and scalable digital solutions. Currently interning as an **Android Application Developer at SyntecxHub**, I specialize in engineering intuitive mobile experiences using **Kotlin** and **Flutter**, alongside robust full-stack web architectures and cloud automation.
+I am a results-driven **Mobile Application Developer**, **Full-Stack Engineer**, and **Aspiring DevOps Engineer** passionate about building high-performance mobile applications and scalable digital solutions. Having concluded my internship as an **Android Application Developer Intern at SyntecxHub**, I specialize in engineering intuitive, production-grade mobile experiences using **Flutter, Dart, and Kotlin**, alongside robust full-stack web architectures and cloud automation.
 
 I actively collaborate on open-source projects, build AI-powered solutions, design CI/CD pipelines, and bridge the gap between clean mobile/web user experiences and resilient backend architectures.
 
@@ -51,9 +51,9 @@ Name: Aman Kanojiya
 Education: Bachelor of Computer Applications (BCA)
 University: Chhatrapati Shivaji Maharaj University (Panvel)
 Location: Navi Mumbai, India
-Current Role: Android App Developer @ SyntecxHub
+Current Role: Mobile Application Developer & Full-Stack Engineer
 Focus Areas:
-  - Android & Cross-Platform App Development
+  - Mobile Application Development (Flutter, Dart & Kotlin)
   - Scalable Full-Stack Web Applications
   - DevOps & CI/CD Automation
   - AI-Powered Solutions
@@ -102,6 +102,10 @@ Focus Areas:
       <br>Flutter
     </td>
     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="65" height="65" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
       <br>Docker
     </td>
@@ -118,7 +122,7 @@ Focus Areas:
 | **Databases** | Supabase, MongoDB, PostgreSQL |
 | **Services** | Razorpay, Cloudinary, Prisma, Openrouter, Flask |
 | **AI & ML** | TensorFlow, TensorFlow Lite, PyTorch, Mediapipe |
-| **Android** | Android Studio, Kotlin, Expo, Flutter |
+| **Mobile Development** | Flutter, Dart, Kotlin, Jetpack Compose, Android SDK, Android Studio, Expo |
 | **DevOps & Infrastructure** | GitHub Actions, Git, VSCode, Docker |
 | **Designing** | Figma, Canva, Microsoft Designer, Google Stitch |
 
@@ -127,11 +131,11 @@ Focus Areas:
 # 💼 Professional Experience
 
 ### **SyntecxHub — Android Application Developer Intern**
-*August 2026 – Present*
+*August 2026 – September 2026*
 
-* **Android Application Development:** Building native and cross-platform mobile applications using Kotlin & Flutter.
-* **UI/UX & Performance:** Engineering responsive mobile interfaces and optimizing app architecture.
-* **Version Control & Collaboration:** Collaborating using Git for version control and modular app delivery.
+* **Mobile Application Development:** Engineered native and cross-platform mobile applications using Kotlin, Jetpack Compose, and the Android SDK.
+* **UI/UX & Performance Optimization:** Built responsive, high-fidelity user interfaces, integrated audio engines, and optimized background data caching for seamless performance.
+* **Architecture & Delivery:** Implemented MVVM and Clean Architecture patterns, managed version control with Git, and delivered production-ready APK builds.
 
 ### **CodeAlpha — Full Stack Developer Intern**
 *June 2026 – July 2026*
@@ -361,6 +365,7 @@ Focus Areas:
 
 | Certification                           | Issuing Organization / Platform         |
 | :-------------------------------------- | :-------------------------------------- |
+| **Mobile Application Development using Flutter & Dart** | Udemy                                   |
 | **Artificial Intelligence**             | Google Cloud                            |
 | **Full Stack Web Development**          | Udemy                                   |
 | **Machine Learning using Python**       | Simplilearn                             |
