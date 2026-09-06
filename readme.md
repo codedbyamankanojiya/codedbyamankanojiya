@@ -5,21 +5,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Mobile+App+Developer;Full-Stack+Web+Developer;Android+%7C+Kotlin+%7C+Flutter;AI%2FML+%26+IoT;Building+Practical+Applications)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mobile_App-Developer-1E3A8A?style=for-the-badge" alt="Mobile App Developer" />
-  <img src="https://img.shields.io/badge/Full--Stack_Web-Developer-0A2540?style=for-the-badge" alt="Full-Stack Web Developer" />
-  <img src="https://img.shields.io/badge/AI%2FML-&_IoT-2563EB?style=for-the-badge" alt="AI/ML & IoT" />
-  <img src="https://img.shields.io/badge/BCA-CSMU_Panvel-1E40AF?style=for-the-badge" alt="BCA" />
+  <img src="https://img.shields.io/badge/Software-Developer-7C3AED?style=for-the-badge" alt="Software Developer" />
+  <img src="https://img.shields.io/badge/Mobile_&_Web-Applications-4F46E5?style=for-the-badge" alt="Mobile & Web Applications" />
+  <img src="https://img.shields.io/badge/BCA-CSMU_Panvel-A855F7?style=for-the-badge" alt="BCA" />
+  <img src="https://img.shields.io/badge/Artist-@amankanojiyaart-6D28D9?style=for-the-badge" alt="Artist" />
 </p>
 
 <p align="center">
   <a href="https://codedbyamankanojiya.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/aman-kanojiya-7386822b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:aman.knj2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/amankanojiyaart" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://x.com/AKnj08" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
