@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,50:7C3AED,100:A855F7&text=Aman%20Kanojiya&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Building%20Mobile%20%26%20Web%20Applications%20%7C%20AI%2FML%20%26%20IoT&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,50:7C3AED,100:A855F7&text=Aman%20Kanojiya&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Mobile%20App%20Developer%20%7C%20Full-Stack%20Web%20Developer%20%7C%20AI%2FML%20%7C%20IoT&descAlignY=55" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Developer;Building+Mobile+%26+Web+Applications;Android+%7C+Kotlin+%7C+Flutter+%7C+Full-Stack;AI%2FML+%7C+Cloud+Fundamentals+%7C+IoT;Passionate+Artist+%40amankanojiyaart)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Mobile+App+Developer;Full-Stack+Web+Developer;Android+%7C+Kotlin+%7C+Flutter;AI%2FML+%26+IoT;Building+Practical+Applications)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software-Developer-7C3AED?style=for-the-badge" alt="Software Developer" />
-  <img src="https://img.shields.io/badge/Mobile_&_Web-Applications-4F46E5?style=for-the-badge" alt="Mobile & Web Applications" />
+  <img src="https://img.shields.io/badge/Mobile_App-Developer-7C3AED?style=for-the-badge" alt="Mobile App Developer" />
+  <img src="https://img.shields.io/badge/Full--Stack_Web-Developer-4F46E5?style=for-the-badge" alt="Full-Stack Web Developer" />
+  <img src="https://img.shields.io/badge/AI%2FML-&_IoT-6D28D9?style=for-the-badge" alt="AI/ML & IoT" />
   <img src="https://img.shields.io/badge/BCA-CSMU_Panvel-A855F7?style=for-the-badge" alt="BCA" />
-  <img src="https://img.shields.io/badge/Artist-@amankanojiyaart-6D28D9?style=for-the-badge" alt="Artist" />
 </p>
 
 <p align="center">
@@ -20,9 +20,6 @@
   </a>
   <a href="mailto:aman.knj2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/amankanojiyaart" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://x.com/AKnj08" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
@@ -40,10 +37,9 @@
 
 I'm a **Software Developer** focused on building mobile and web applications with a strong interest in creating practical, user-focused products.
 
-* 📱 **Mobile & Web Engineering:** Primary expertise lies in **Android, Kotlin, Flutter, and Full-Stack Web Development**, with hands-on experience across application architecture, responsive interfaces, APIs, databases, and backend systems.
-* 🧠 **AI/ML, Cloud & IoT:** Actively explore **AI/ML, Cloud fundamentals, and IoT**, leveraging them as supporting technologies to expand application capabilities and intelligence.
+* 📱 **Mobile & Web Engineering:** Primary expertise lies in **Mobile App Development (Android, Kotlin, Flutter)** and **Full-Stack Web Development**, with hands-on experience across application architecture, responsive interfaces, APIs, databases, and backend systems.
+* 🧠 **AI/ML & IoT:** Actively explore **AI/ML and IoT**, leveraging them to expand application capabilities, intelligence, and connected hardware solutions.
 * 💼 **Experience & Shipping:** Concluded my internship as an **Android Application Developer Intern at SyntecxHub** and previously worked in **Full-Stack Web Development at CodeAlpha**. I actively build personal projects, participate in hackathons, and continuously explore modern development practices.
-* 🎨 **Art Meets Code:** Outside development, I'm a portrait and painting artist (**[@amankanojiyaart](https://www.instagram.com/amankanojiyaart)**), bringing an artist's perspective and creative eye to interface design, visual details, and user-centric problem-solving.
 
 ---
 
@@ -54,12 +50,11 @@ Name: Aman Kanojiya
 Education: Bachelor of Computer Applications (BCA)
 University: Chhatrapati Shivaji Maharaj University (Panvel)
 Location: Navi Mumbai, India
-Current Role: Software Developer (Mobile & Web Applications)
+Current Role: Software Developer
 Focus Areas:
-  - Mobile Application Development (Android, Kotlin & Flutter)
+  - Mobile App Development (Android, Kotlin & Flutter)
   - Full-Stack Web Development (React, Node.js, APIs & DBs)
-  - AI/ML, Cloud Fundamentals & IoT
-  - UI/UX Aesthetics & Creative Visual Artistry
+  - AI/ML & IoT
 ```
 
 ---
@@ -331,9 +326,9 @@ Focus Areas:
 
 ---
 
-# ☁️ Cloud, IoT & Developer Tooling
+# 🛠️ IoT & Developer Tooling
 
-* 🌐 **Supporting Technologies & Tooling:** Cloud Fundamentals, IoT (ESP32, LoRa Wireless Telemetry), Docker, Git, Linux Systems, Automated Workflows
+* 🌐 **Supporting Technologies & Tooling:** IoT (ESP32, LoRa Wireless Telemetry), Docker, Git, Linux Systems, Automated Workflows
 
 ---
 
