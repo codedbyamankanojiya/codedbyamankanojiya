@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,50:7C3AED,100:A855F7&text=Aman%20Kanojiya&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Mobile%20App%20Developer%20%7C%20Full-Stack%20Web%20Developer%20%7C%20AI%2FML%20%7C%20IoT&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A192F,50:1E3A8A,100:2563EB&text=Aman%20Kanojiya&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Mobile%20App%20Developer%20%7C%20Full-Stack%20Web%20Developer%20%7C%20AI%2FML%20%7C%20IoT&descAlignY=55" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Mobile+App+Developer;Full-Stack+Web+Developer;Android+%7C+Kotlin+%7C+Flutter;AI%2FML+%26+IoT;Building+Practical+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Mobile+App+Developer;Full-Stack+Web+Developer;Android+%7C+Kotlin+%7C+Flutter;AI%2FML+%26+IoT;Building+Practical+Applications)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mobile_App-Developer-7C3AED?style=for-the-badge" alt="Mobile App Developer" />
-  <img src="https://img.shields.io/badge/Full--Stack_Web-Developer-4F46E5?style=for-the-badge" alt="Full-Stack Web Developer" />
-  <img src="https://img.shields.io/badge/AI%2FML-&_IoT-6D28D9?style=for-the-badge" alt="AI/ML & IoT" />
-  <img src="https://img.shields.io/badge/BCA-CSMU_Panvel-A855F7?style=for-the-badge" alt="BCA" />
+  <img src="https://img.shields.io/badge/Mobile_App-Developer-1E3A8A?style=for-the-badge" alt="Mobile App Developer" />
+  <img src="https://img.shields.io/badge/Full--Stack_Web-Developer-0A2540?style=for-the-badge" alt="Full-Stack Web Developer" />
+  <img src="https://img.shields.io/badge/AI%2FML-&_IoT-2563EB?style=for-the-badge" alt="AI/ML & IoT" />
+  <img src="https://img.shields.io/badge/BCA-CSMU_Panvel-1E40AF?style=for-the-badge" alt="BCA" />
 </p>
 
 <p align="center">
   <a href="https://codedbyamankanojiya.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/aman-kanojiya-7386822b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -373,12 +373,12 @@ Focus Areas:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0A192F,50:1E3A8A,100:2563EB" width="100%" />
 
 <p align="center">
   ⭐ <b>If you find my work interesting, give it a star! Let's build something great together.</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codedbyamankanojiya&label=Profile%20Views&color=7C3AED&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=codedbyamankanojiya&label=Profile%20Views&color=1E3A8A&style=flat" alt="Profile Views" />
 </p>
