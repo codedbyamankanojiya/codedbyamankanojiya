@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A192F,50:1E3A8A,100:2563EB&text=Aman%20Kanojiya&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Mobile%20App%20Developer%20%7C%20Full-Stack%20Web%20Developer%20%7C%20AI%2FML%20%7C%20IoT&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A192F,50:1E3A8A,100:2563EB&text=Aman%20Kanojiya&fontSize=55&fontAlignY=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Mobile+App+Developer;Full-Stack+Web+Developer;Android+%7C+Kotlin+%7C+Flutter;AI%2FML+%26+IoT;Building+Practical+Applications)](https://git.io/typing-svg)
 
@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/Software-Developer-1E3A8A?style=for-the-badge" alt="Software Developer" />
   <img src="https://img.shields.io/badge/Mobile_&_Web-Applications-1E3A8A?style=for-the-badge" alt="Mobile & Web Applications" />
   <img src="https://img.shields.io/badge/BCA-CSMU_Panvel-1E3A8A?style=for-the-badge" alt="BCA" />
+  <a href="https://www.instagram.com/amankanojiyaart" target="_blank">
+    <img src="https://img.shields.io/badge/Artist-@amankanojiyaart-1E3A8A?style=for-the-badge" alt="Artist" />
+  </a>
 </p>
 
 <p align="center">
@@ -19,6 +22,9 @@
   </a>
   <a href="mailto:aman.knj2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/alw4ys.ammy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-1E3A8A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://x.com/AKnj08" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-1E3A8A?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
