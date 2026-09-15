@@ -116,18 +116,18 @@ Focus Areas:
 </table>
 </div>
 
-### 🌐 Ecosystem & Supporting Libraries
+### 🛠️ Technical Skills
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend Utilities** | HTML5, CSS3, React.js, Next.js, TailwindCSS, Bootstrap |
-| **Backend Details** | Node.js, Express.js, Django, FastAPI, C++, Python |
-| **Databases** | Supabase, MongoDB, PostgreSQL |
-| **Services** | Razorpay, Cloudinary, Prisma, Openrouter, Flask |
-| **AI & ML** | TensorFlow, TensorFlow Lite, PyTorch, Mediapipe |
-| **Mobile Development** | Flutter, Dart, Kotlin, Jetpack Compose, Android SDK, Android Studio, Expo |
-| **Developer Tools & Infrastructure** | GitHub Actions, Git, VSCode, Docker |
-| **Designing** | Figma, Canva, Microsoft Designer, Google Stitch |
+| **Languages** | C, C++, Python, JavaScript, TypeScript, Dart, Kotlin |
+| **Frontend** | HTML5, CSS3, React.js, Next.js, Three.js, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Django, FastAPI, Flask |
+| **Databases** | Supabase, MongoDB, PostgreSQL, Firebase |
+| **AI/ML** | TensorFlow, PyTorch, MediaPipe |
+| **Mobile Development** | Android SDK, Flutter |
+| **DevOps** | Git, GitHub Actions, Docker |
+| **Hardware & IoT** | Arduino, ESP32 |
 
 ---
 
