@@ -364,61 +364,18 @@ Focus Areas:
 
 ---
 
-# 🏆 Certifications & Most Used Languages
+# 🏆 Certifications
 
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <table width="100%">
-        <thead>
-          <tr>
-            <th align="left">Certification</th>
-            <th align="left">Issuing Organization / Platform</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><b>Mobile Application Development using Flutter & Dart</b></td>
-            <td>Udemy</td>
-          </tr>
-          <tr>
-            <td><b>Artificial Intelligence</b></td>
-            <td>Google Cloud</td>
-          </tr>
-          <tr>
-            <td><b>Full Stack Web Development</b></td>
-            <td>Udemy</td>
-          </tr>
-          <tr>
-            <td><b>Machine Learning using Python</b></td>
-            <td>Simplilearn</td>
-          </tr>
-          <tr>
-            <td><b>Complete Arduino Course</b></td>
-            <td>Udemy</td>
-          </tr>
-          <tr>
-            <td><b>Introduction to Cyber Security</b></td>
-            <td>Simplilearn</td>
-          </tr>
-          <tr>
-            <td><b>Data Structures & Algorithms</b></td>
-            <td>LetsUpgrade</td>
-          </tr>
-          <tr>
-            <td><b>Google Developer Groups (GDG)</b></td>
-            <td>Google Developer Groups on Campus (CSMU)</td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <a href="https://github.com/codedbyamankanojiya" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyamankanojiya&hide_border=true&bg_color=0A192F&title_color=60A5FA&text_color=FFFFFF" alt="Most Used Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Certification                                           | Issuing Organization / Platform          |
+| :------------------------------------------------------ | :--------------------------------------- |
+| **Mobile Application Development using Flutter & Dart** | Udemy                                    |
+| **Artificial Intelligence**                             | Google Cloud                             |
+| **Full Stack Web Development**                          | Udemy                                    |
+| **Machine Learning using Python**                       | Simplilearn                              |
+| **Complete Arduino Course**                             | Udemy                                    |
+| **Introduction to Cyber Security**                      | Simplilearn                              |
+| **Data Structures & Algorithms**                        | LetsUpgrade                              |
+| **Google Developer Groups (GDG)**                       | Google Developer Groups on Campus (CSMU) |
 
 ---
 
