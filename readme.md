@@ -165,7 +165,7 @@ Focus Areas:
   * Emergency contacts manager with direct phone & SMS dialing
   * Medical emergency ID & incident evidence reporting via NestJS backend
   * **Interactive Demo Webview Available**: Full in-browser smartphone emulator built with Next.js 15, React 19, and Tailwind CSS.
-* **Links:** [Live Demo Webview](https://theprojectnirbhaya.vercel.app)
+* **Links:** [Live Demo Webview](https://theprojectnirbhaya.vercel.app) • [GitHub Repository](https://github.com/codedbyamankanojiya/Nirbhaya)
 </details>
 
 <details>
@@ -179,7 +179,7 @@ Focus Areas:
   * Complete 4-lifeline system: 50:50, Audience Poll, Flip the Question, and Extra Life
   * Immersive audio engine with looping background music and low-latency SoundPool SFX
   * Room DB with 45 hand-crafted questions across 15 progressive difficulty tiers
-* **Links:** [Download APK (v1.0.0)](https://github.com/codedbyamankanojiya/Syntecxhub-Tasks/releases/download/WGM-V-1.0.0/Millionaire.Quiz.apk)
+* **Links:** [GitHub Repository](https://github.com/codedbyamankanojiya/WGM-Quiz) • [Download APK (v1.0.0)](https://github.com/codedbyamankanojiya/WGM-Quiz/releases/download/WGM-Quiz/Millionaire.Quiz.apk)
 </details>
 
 <details>
@@ -193,7 +193,7 @@ Focus Areas:
   * Offline-first caching with Room DB and instant cached story fallback
   * Live studio broadcast UI with breaking banners and studio carousel
   * Real-time top headlines integration via GNews REST API
-* **Links:** [Download APK (v1.0)](https://github.com/codedbyamankanojiya/Syntecxhub-Tasks/releases/download/DN-V1.0/DeshNews.24-7.apk)
+* **Links:** [GitHub Repository](https://github.com/codedbyamankanojiya/DeshNews) • [Download APK (v1.0)](https://github.com/codedbyamankanojiya/DeshNews/releases/download/DN24-7/DeshNews.24-7.apk)
 </details>
 
 ### 🌐 Full-Stack Web Applications
@@ -227,7 +227,7 @@ Focus Areas:
   * Real-time scan data sync with SQLite backend for outbreak monitoring
   * Stunning "Nature Meets Cyber" UI with glassmorphism and fluid animations
   * Offline-capable caching with IndexedDB for rural accessibility
-* **Links:** [Live Demo](https://agrishieldtech.vercel.app)
+* **Links:** [Live Demo](https://agrishieldtech.vercel.app) • [GitHub Repository](https://github.com/codedbyamankanojiya/AgriShield-AI)
 </details>
 
 <details>
@@ -241,7 +241,7 @@ Focus Areas:
   * User authentication system with JWT & secure session handling
   * Advanced product catalog search, category filtering & sorting
   * Dynamic shopping cart management with real-time price updates
-* **Links:** [Live Store](https://thenexcartstore.vercel.app)
+* **Links:** [Live Store](https://thenexcartstore.vercel.app) • [GitHub Repository](https://github.com/codedbyamankanojiya/Nexcart)
 </details>
 
 ### 💻 C/C++, Python & Embedded Systems
@@ -345,8 +345,8 @@ Focus Areas:
       <br />
       <h4>⚡ IEEE TECHNITHON – HACKDECK 2.0</h4>
       <p align="center"><small>Jan 2026 | Atharva University, Mumbai</small></p>
-      <p align="center">🏷️ Team: <code>Pythasauras</code></p>
-      <p align="center">🎯 Role: <b>Full-Stack & System Design</b> </p>
+      <p align="center">🏷️ Team: <code>Amethyst</code></p>
+      <p align="center">🎯 Role: <b>Full-Stack & System Design</b></p>
       <p align="center">📈 Improved AI/ML system, Created Entire frontend for the project</p>
       <br />
     </td>
@@ -364,17 +364,61 @@ Focus Areas:
 
 ---
 
-# 🏆 Certifications
+# 🏆 Certifications & Most Used Languages
 
-| Certification                           | Issuing Organization / Platform         |
-| :-------------------------------------- | :-------------------------------------- |
-| **Mobile Application Development using Flutter & Dart** | Udemy                                   |
-| **Artificial Intelligence**             | Google Cloud                            |
-| **Full Stack Web Development**          | Udemy                                   |
-| **Machine Learning using Python**       | Simplilearn                             |
-| **Introduction to Cyber Security**      | Simplilearn                             |
-| **Data Structures & Algorithms**        | LetsUpgrade                             |
-| **Google Developer Groups (GDG)**       | Google Developer Groups                 |
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <table width="100%">
+        <thead>
+          <tr>
+            <th align="left">Certification</th>
+            <th align="left">Issuing Organization / Platform</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><b>Mobile Application Development using Flutter & Dart</b></td>
+            <td>Udemy</td>
+          </tr>
+          <tr>
+            <td><b>Artificial Intelligence</b></td>
+            <td>Google Cloud</td>
+          </tr>
+          <tr>
+            <td><b>Full Stack Web Development</b></td>
+            <td>Udemy</td>
+          </tr>
+          <tr>
+            <td><b>Machine Learning using Python</b></td>
+            <td>Simplilearn</td>
+          </tr>
+          <tr>
+            <td><b>Complete Arduino Course</b></td>
+            <td>Udemy</td>
+          </tr>
+          <tr>
+            <td><b>Introduction to Cyber Security</b></td>
+            <td>Simplilearn</td>
+          </tr>
+          <tr>
+            <td><b>Data Structures & Algorithms</b></td>
+            <td>LetsUpgrade</td>
+          </tr>
+          <tr>
+            <td><b>Google Developer Groups (GDG)</b></td>
+            <td>Google Developer Groups on Campus (CSMU)</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://github.com/codedbyamankanojiya" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyamankanojiya&hide_border=true&bg_color=0A192F&title_color=60A5FA&text_color=FFFFFF" alt="Most Used Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
